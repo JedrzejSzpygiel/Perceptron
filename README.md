@@ -1,3 +1,3 @@
 # Simple Perceptron
 Project allows to create a Machine Learning structure such as simple perceptron implementing only NumPy libraries.
-An object-oriented approach is used for the project - a perceptron is defined as a class, which allows creating Perceptron objects with methods such as fit and predict.
+An object-oriented approach is used for the project - a perceptron is defined as a class, which allows creating Perceptron objects with methods such as fit and predict. In the project, the Adaptive Linear Neuron (Adaline) approach with Stochastic Gradient Descent is implemented. Iris standard dataset was used for training.
